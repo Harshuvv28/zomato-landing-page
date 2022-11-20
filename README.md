@@ -1,1 +1,2 @@
-# zomato this is zamato landing page
+# This is zamato landing page
+Only the front end part
